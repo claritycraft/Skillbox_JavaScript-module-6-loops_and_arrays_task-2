@@ -1,0 +1,1 @@
+# Skillbox_JavaScript-module-6-loops_and_arrays_task-2
